@@ -1,0 +1,2 @@
+# AdvancedAutoClicker
+Advanced Auto Clicker
