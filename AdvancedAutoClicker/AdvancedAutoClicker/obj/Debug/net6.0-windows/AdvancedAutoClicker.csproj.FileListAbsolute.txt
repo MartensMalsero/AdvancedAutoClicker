@@ -1,0 +1,17 @@
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\AdvancedAutoClicker.csproj.AssemblyReference.cache
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\AdvancedAutoClicker.csproj.GenerateResource.cache
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\AdvancedAutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\AdvancedAutoClicker.AssemblyInfoInputs.cache
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\AdvancedAutoClicker.AssemblyInfo.cs
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\AdvancedAutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\bin\Debug\net6.0-windows\AdvancedAutoClicker.exe
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\bin\Debug\net6.0-windows\AdvancedAutoClicker.deps.json
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\bin\Debug\net6.0-windows\AdvancedAutoClicker.runtimeconfig.json
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\bin\Debug\net6.0-windows\AdvancedAutoClicker.dll
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\bin\Debug\net6.0-windows\AdvancedAutoClicker.pdb
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\AdvancedAutoClicker.ControlPanel.resources
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\AdvancedAutoClicker.dll
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\refint\AdvancedAutoClicker.dll
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\AdvancedAutoClicker.pdb
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\AdvancedAutoClicker.genruntimeconfig.cache
+C:\Users\Philipp\Nextcloud\Code Projekte\AdvancedAutoClicker\AdvancedAutoClicker\AdvancedAutoClicker\obj\Debug\net6.0-windows\ref\AdvancedAutoClicker.dll
