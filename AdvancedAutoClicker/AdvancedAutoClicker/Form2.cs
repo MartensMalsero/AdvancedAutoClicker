@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace AdvancedAutoClicker
 {
-    public partial class Form2 : Form
+    public partial class Form2 : MainForms
     {
         private static ControlPanel? CallBack;
         public Form2(ControlPanel cp)

@@ -7,7 +7,7 @@ using Timer = System.Timers.Timer;
 
 namespace AdvancedAutoClicker
 {
-    public partial class ControlPanel : Form
+    public partial class ControlPanel : MainForms
     {
         [DllImport("user32.dll")]
         public static extern bool GetCursorPos(out POINT lpPoint);

@@ -12,6 +12,14 @@ namespace AdvancedAutoClicker
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new ControlPanel());
+        } 
+    }
+
+    public class MainForms : Form
+    {
+        public MainForms()
+        {
+            Icon = Properties.Resources.maus;
         }
     }
 }

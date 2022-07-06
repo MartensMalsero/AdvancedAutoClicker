@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace AdvancedAutoClicker
 {
-    public partial class HotKeyControlPanel : Form
+    public partial class HotKeyControlPanel : MainForms
     {
         private static ControlPanel? CallBack;
         private static Keys StartHotKey;
