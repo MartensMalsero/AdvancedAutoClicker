@@ -251,6 +251,9 @@ namespace AdvancedAutoClicker
             };
 
             HotKeyTimer.Elapsed += HotKeyTimerEvent;
+
+            //WIP
+            Record_playback_button.Enabled = false;
         }
 
         private void HotKeyTimerEvent(object? sender, System.Timers.ElapsedEventArgs e)
@@ -393,7 +396,6 @@ namespace AdvancedAutoClicker
             }
         }
 
-        //WIP
         private void Hotkey_button_Click(object sender, EventArgs e)
         {
             HotKeyControlPanel ChangeHotKey = new(this, StartHotKey, StopHotKey);
@@ -423,37 +425,37 @@ namespace AdvancedAutoClicker
         }
 
         //WIP
-        private void Record_playback_button_Click(object sender, EventArgs e)
+        private async void Record_playback_button_Click(object sender, EventArgs e)
         {
             POINT current_pos, prev_pos;
             List<POINT> coords = new();
 
             if (Record_Playback == 0)
             {
-                Record_Playback = 1;
+
+                Record_playback_button.Text = "Recording ...";
+                Record_playback_button.ForeColor = Color.Red;
 
                 prev_pos.X = 0;
                 prev_pos.Y = 0;
 
-                do
+                await Task.Run(() =>
                 {
-                    if (GetCursorPos(out current_pos))
+                    do
                     {
-                        if ((current_pos.X != prev_pos.X) || (current_pos.Y != prev_pos.Y))
+                        if (GetCursorPos(out current_pos))
                         {
-                            coords.Add(current_pos);
+                            if ((current_pos.X != prev_pos.X) || (current_pos.Y != prev_pos.Y))
+                            {
+                                coords.Add(current_pos);
+                            }
+
+                            prev_pos.X = current_pos.X;
+                            prev_pos.Y = current_pos.Y;
                         }
 
-                        prev_pos.X = current_pos.X;
-                        prev_pos.Y = current_pos.Y;
-                    }
-
-                } while (Record_Playback == 1);
-            }
-
-            if (Record_Playback == 1)
-            {
-
+                    } while (Record_Playback == 0);
+                });
             }
         }
     }
