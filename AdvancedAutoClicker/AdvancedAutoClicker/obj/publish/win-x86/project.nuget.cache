@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uKkqipar2s+faXcrSh9WfQel/BUHVobAv0vh9Hc9VszOSwaBzICpMXoV2TAo6kREQCTJJhylTFp5sD/XozfOLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Philipp\\Nextcloud\\Code Projekte\\AdvancedAutoClicker\\AdvancedAutoClicker\\AdvancedAutoClicker\\AdvancedAutoClicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Philipp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.5\\microsoft.netcore.app.runtime.win-x86.6.0.5.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.5\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.5.nupkg.sha512",
+    "C:\\Users\\Philipp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.5\\microsoft.aspnetcore.app.runtime.win-x86.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
